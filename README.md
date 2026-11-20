@@ -13,7 +13,7 @@ When the temperature reaches 33°C or above, the LED starts blinking, the buzzer
 - Activates LED blinking and buzzer when temperature reaches 33°C.
 - Displays HOT or NORMAL alert status.
 # Platform
-"KiwisIoT.in" (https://kiwisiot.in)
+-**IoT Platform:**[KiwisIoT](https://kiwisiot.in)
 # Software
 - Arduino IDE
 - Embedded C++
